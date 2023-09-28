@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Arno Bornman. Passionate software developer and tech enthusiast 🚀👋
+
+### Holopin Board 🏆
+
+[![An image of @gizmo404's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gizmo404)](https://holopin.io/@gizmo404)
+
+- 🔭 I’m currently working on Fullstack Software projects (React, Angular, .NET) at Full Stack Pty Ltd
+- 🌱 I’m currently learning most things React related
+- 👯 I’m looking to collaborate on upcoming Hacktoberfest 2023 projects
+- ⚡ Fun fact - I'm also a part-time drummer
 
 <!--
 **xxGizmoCodexx/xxGizmoCodexx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
